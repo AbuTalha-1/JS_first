@@ -1,0 +1,8 @@
+.dynamic_part{
+    color:  rgb(221, 201, 201);
+    padding: 50px 100px;
+    background-color: rgb(21, 104, 104);
+    border:  2px solid red;
+    border-radius: 10px;
+    
+}
